@@ -2,7 +2,7 @@ import React from 'react'
 
 function Work() {
   return (
-    <div name='work' className='w-full h-full bg-zinc-950 text-white'>
+    <div name='work' className='w-full h-full bg-zinc-950 text-white p-4'>
         <div className='flex flex-col justify-center items-center w-full h-full'>
              <div className='py-9 items-center'>
                 <p className='font-bold text-orange-700 text-3xl text-center'>Portfolio</p>

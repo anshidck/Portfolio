@@ -2,7 +2,7 @@ import React from 'react'
 
 function Skills() {
   return (
-    <div className='bg-zinc-950 text-white  w-full'>
+    <div className='bg-zinc-950 text-white  w-full my-5'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div>
                 <p className='text-3xl font-bold text-center text-orange-700'>Skills</p>
